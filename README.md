@@ -5,7 +5,6 @@
 - 🛠️ **Backend Engineer Aspirant** with a deep focus on Java and Distributed Systems.
 - 🏛️ **Open Source Contributor** at the **Apache Software Foundation**.
 - 📍 Based in **Odisha, India**.
-- 🎯 Currently preparing for **GSoC 2026** and **NIMCET 2027**.
 
 ---
 
