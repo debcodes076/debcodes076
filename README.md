@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **BCA Student** (AI Specialization) at Vivekananda Global University.
-- 🛠️ **Backend Engineer Aspirant** with a deep focus on Java and Distributed Systems.
+- 🛠️ **Backend Engineer** with a deep focus on Java and Distributed Systems.
 - 🏛️ **Open Source Contributor** at the **Apache Software Foundation**.
 - 📍 Based in **Odisha, India**.
 
